@@ -9,3 +9,5 @@ class res_company(models.Model):
     _inherit = 'res.company'
 
     sale_report_terms = fields.Html(store=True,translate=True)
+
+    asdasd
